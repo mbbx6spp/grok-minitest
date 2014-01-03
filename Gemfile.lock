@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cabin (0.6.1)
+    jls-grok (0.10.12)
+      cabin (>= 0.6.0)
+    minitest (5.2.0)
+    minitest-spec (0.0.2.1)
+      minitest (>= 3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jls-grok
+  minitest
+  minitest-spec
